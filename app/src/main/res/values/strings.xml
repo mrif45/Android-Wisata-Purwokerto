@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wisata Purwokerto</string>
+    <string name="profile">Profil</string>
+    <string name="title_activity_about">Tentang Saya</string>
+    <string name="about_nama">Rifqi Muhammad Adam</string>
+    <string name="about_email">Muh.rifqi45@gmail.com</string>
+    <string name="nama_wisata">Nama Tempat Wisata</string>
+    <string name="detail">Detail</string>
+    <string name="detail_address">Alamat</string>
+    <string name="alamat_wisata">Alamat Wisata</string>
+    <string name="desc_wisata">gambar tempat wisata</string>
+    <string name="gambar_wisata">Gambar Wisata</string>
+    <string name="detail_days">Senin\nSelasa\nRabu\nKamis\nJumat\nSabtu\nMinggu</string>
+    <string name="jam_buka">Jam Operasional</string>
+    <string name="time">Waktu buka</string>
+</resources>
